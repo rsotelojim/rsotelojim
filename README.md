@@ -2,6 +2,7 @@
 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I wrote a thesis on data mining/information retrieval you can read it [here](https://digital.library.txst.edu/server/api/core/bitstreams/f14e32bb-11ec-460b-ba34-5e7357eef1f6/content). This was later published at a conference which you can see on [IEEE](https://ieeexplore.ieee.org/document/10020449)
+- 10 years of Java Backend Development Experience
 
 <!--
 **rsotelojim/rsotelojim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
